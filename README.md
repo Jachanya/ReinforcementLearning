@@ -23,3 +23,4 @@ Reinforcement Learning
 with human feedback
 - [ ] Learning to summarize from human feedback
 - [ ] Scaling Laws for Reward Model Overoptimization
+- [ ] Illustrating Reinforcement Learning from Human Feedback (RLHF)
