@@ -6,4 +6,4 @@ Our goal in a reinforcement learning problem is to maximize the discounted rewar
 
 we want to know the value of every state in a RL learning problem. The expected discounted reward from state s following a policy pi is the state-value function.
 
-$q_\pi (s, a) = \displaystyle\sum_{s',r} p(s', r| s, a) [r + \gamma v_\pi (s')]$
+$v_\pi (s) = \displaystyle\sum_{s',r} p(s', r| s, a) [r + \gamma v_\pi (s')]$
